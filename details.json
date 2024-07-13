@@ -1,0 +1,18 @@
+{
+    "Brand": "Honda",
+    "Model": "Accord",
+    "Year": "2012",
+    "Engine": {
+        "Type": "V-6",
+        "Capacity": "65161"
+    },
+    "Features": [
+        "alloy wheels",
+        "sunroof",
+        "navigation"
+    ],
+    "Color": "red",
+    "Price": "7000000",
+    "Solid": true,
+    "image":"car.jpg"
+}
